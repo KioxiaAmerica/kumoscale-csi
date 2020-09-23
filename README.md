@@ -117,5 +117,3 @@ So that pvc allocation will be done when a pod that refers it starts running for
 node when possible (such backend exist with enough capacity)
 
 # CSI Driver
-
-https://github.com/KioxiaAmerica/kumoscale-csi/releases/tag/v3.15CSIDriver
