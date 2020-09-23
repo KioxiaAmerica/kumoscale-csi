@@ -115,5 +115,3 @@ So that pvc allocation will be done when a pod that refers it starts running for
 3) Set  region ,zone, rack to backends (use REST command update backend or add backend)
 4) Check that when a pod is assigned to a node, the volume is allocated on backend within the same region and zone of the
 node when possible (such backend exist with enough capacity)
-
-# CSI Driver
