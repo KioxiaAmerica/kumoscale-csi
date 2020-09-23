@@ -118,4 +118,4 @@ node when possible (such backend exist with enough capacity)
 
 # CSI Driver
 
-https://github.com/KioxiaAmerica/kumoscale/tree/CSI
+https://github.com/KioxiaAmerica/kumoscale-csi/releases/tag/v3.15CSIDriver
